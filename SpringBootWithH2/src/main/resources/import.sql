@@ -1,0 +1,1 @@
+insert into product (id, name, price) values (21, 'Shampoo', 12.43);
